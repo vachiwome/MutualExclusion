@@ -1,0 +1,7 @@
+This code implements the mutual exclusion algorithm that
+was discussed in class.
+
+To run it, simply run the three processes that are inside
+the package test and see the statistics of the resource 
+sharing that takes place. The three processes should be
+run in parallel.
